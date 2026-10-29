@@ -1,0 +1,12 @@
+venv/
+recordings/
+generated/
+audio/
+transcripts/
+manifests/
+__pycache__/
+*.pyc
+.env
+storage_state.json
+logs/
+.bot-chrome-profile/
